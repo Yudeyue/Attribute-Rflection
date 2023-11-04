@@ -1,0 +1,15 @@
+D:\Metropolia.NET\TestHarness\bin\Debug\net6.0\TestHarness.exe
+D:\Metropolia.NET\TestHarness\bin\Debug\net6.0\TestHarness.deps.json
+D:\Metropolia.NET\TestHarness\bin\Debug\net6.0\TestHarness.runtimeconfig.json
+D:\Metropolia.NET\TestHarness\bin\Debug\net6.0\TestHarness.dll
+D:\Metropolia.NET\TestHarness\bin\Debug\net6.0\TestHarness.pdb
+D:\Metropolia.NET\TestHarness\obj\Debug\net6.0\TestHarness.csproj.AssemblyReference.cache
+D:\Metropolia.NET\TestHarness\obj\Debug\net6.0\TestHarness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Metropolia.NET\TestHarness\obj\Debug\net6.0\TestHarness.AssemblyInfoInputs.cache
+D:\Metropolia.NET\TestHarness\obj\Debug\net6.0\TestHarness.AssemblyInfo.cs
+D:\Metropolia.NET\TestHarness\obj\Debug\net6.0\TestHarness.csproj.CoreCompileInputs.cache
+D:\Metropolia.NET\TestHarness\obj\Debug\net6.0\TestHarness.dll
+D:\Metropolia.NET\TestHarness\obj\Debug\net6.0\refint\TestHarness.dll
+D:\Metropolia.NET\TestHarness\obj\Debug\net6.0\TestHarness.pdb
+D:\Metropolia.NET\TestHarness\obj\Debug\net6.0\TestHarness.genruntimeconfig.cache
+D:\Metropolia.NET\TestHarness\obj\Debug\net6.0\ref\TestHarness.dll
